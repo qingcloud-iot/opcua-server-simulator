@@ -1,0 +1,35 @@
+|          identifier           |    description     | type |                       define                       
+|-------------------------------|--------------------|------|----------------------------------------------------
+| 3#Lu1_Bottom_Neice_Temp       | 炉底内侧温度       |    2 | {"step": "0.1", "unit": "℃", "unitName": "摄氏度"}
+| 3#Lu1_Bottom_Waice_Temp       | 炉底外侧温度       |    2 | {"step": "0.1", "unit": "℃", "unitName": "摄氏度"}
+| 3#Lu1_Central_BaoWen_Temp     | 炉中部保温位置温度 |    2 | {"step": "0.1", "unit": "℃", "unitName": "摄氏度"}
+| 3#Lu1_Central_FangZha_Temp    | 炉中部放渣上面温度 |    2 | {"step": "0.1", "unit": "℃", "unitName": "摄氏度"}
+| 3#Lu1_NAN_Temp                | 排放口水温NAN温度  |    2 | {"step": "0.1", "unit": "℃", "unitName": "摄氏度"}
+| 3#Lu1_PenQiang1_Flow          | 炉1喷枪供氧流量    |    2 | {"step": "1", "unit": "Nm^3/h", "unitName": ""}
+| 3#Lu1_PenQiang1_Location      | 炉1喷枪供氧位置    |    1 | {"step": "", "unit": "", "unitName": ""}
+| 3#Lu1_PenQiang1_Press         | 炉1喷枪供氧压强    |    2 | {"step": "0.1", "unit": "kPa", "unitName": "千帕"}
+| 3#Lu1_PenQiang1_Temp          | 炉1喷枪供氧温度    |    2 | {"step": "1", "unit": "℃", "unitName": "摄氏度"}
+| 3#Lu1_PenQiang2_Flow          | 炉1喷枪供风流量    |    2 | {"step": "1", "unit": "Nm^3/h", "unitName": ""}
+| 3#Lu1_PenQiang2_Location      | 炉1喷枪供风位置    |    1 | {"step": "", "unit": "", "unitName": ""}
+| 3#Lu1_PenQiang2_Press         | 炉1喷枪供风压强    |    2 | {"step": "0.1", "unit": "kPa", "unitName": "千帕"}
+| 3#Lu1_PenQiang2_Temp          | 炉1喷枪供风温度    |    2 | {"step": "1", "unit": "℃", "unitName": "摄氏度"}
+| 3#Lu1_PenQiang3_Flow          | 炉1套筒风流量      |    2 | {"step": "1", "unit": "Nm^3/h", "unitName": ""}
+| 3#Lu1_PenQiang3_Location      | 炉1套筒风位置      |    1 | {"step": "", "unit": "", "unitName": ""}
+| 3#Lu1_PenQiang3_Press         | 炉1套筒风压强      |    2 | {"step": "0.1", "unit": "kPa", "unitName": "千帕"}
+| 3#Lu1_PenQiang3_Temp          | 炉1套筒风温度      |    2 | {"step": "1", "unit": "℃", "unitName": "摄氏度"}
+| 3#Lu1_PenQiang4_Flow          | 炉1粉煤流量        |    2 | {"step": "1", "unit": "Nm^3/h", "unitName": ""}
+| 3#Lu1_PenQiang4_Location      | 炉1粉煤位置        |    1 | {"step": "", "unit": "", "unitName": ""}
+| 3#Lu1_PenQiang4_Press         | 炉1粉煤压强        |    2 | {"step": "0.1", "unit": "kPa", "unitName": "千帕"}
+| 3#Lu1_PenQiang4_Temp          | 炉1粉煤温度        |    2 | {"step": "1", "unit": "℃", "unitName": "摄氏度"}
+| 3#Lu1_PenQiang5_Flow          | 炉1载煤风流量      |    2 | {"step": "1", "unit": "Nm^3/h", "unitName": ""}
+| 3#Lu1_PenQiang5_Location      | 炉1载煤风位置      |    1 | {"step": "", "unit": "", "unitName": ""}
+| 3#Lu1_PenQiang5_Press         | 炉1载煤风压强      |    2 | {"step": "0.1", "unit": "kPa", "unitName": "千帕"}
+| 3#Lu1_PenQiang5_Temp          | 炉1载煤风温度      |    2 | {"step": "1", "unit": "℃", "unitName": "摄氏度"}
+| 3#Lu1_Shell_Neice_Temp        | 炉壳内侧温度       |    2 | {"step": "0.1", "unit": "℃", "unitName": "摄氏度"}
+| 3#Lu1_Shell_Waice_Temp        | 炉壳外侧温度       |    2 | {"step": "0.1", "unit": "℃", "unitName": "摄氏度"}
+| 3#Lu1_SLAG_Temp               | SLAG温度           |    2 | {"step": "0.1", "unit": "℃", "unitName": "摄氏度"}
+| 3#Lu1_Smock_O2_Concentration  | 过渡段烟气O2浓度   |    2 | {"step": "0.1", "unit": "ppm", "unitName": "ppm"}
+| 3#Lu1_Smock_SO2_Concentration | 过渡段烟气SO2浓度  |    2 | {"step": "0.1", "unit": "ppm", "unitName": "ppm"}
+| 3#Lu1_Smock_Temp              | 过渡段烟气温度     |    2 | {"step": "0.1", "unit": "℃", "unitName": "摄氏度"}
+| 3#Lu1_Top_BEIMIAN_Temp        | 炉上部BEIMIAN温度  |    2 | {"step": "0.1", "unit": "℃", "unitName": "摄氏度"}
+| 3#Lu1_Top_NANMIAN_Temp        | 炉上部NANMIAN温度  |    2 | {"step": "0.1", "unit": "℃", "unitName": "摄氏度"}
